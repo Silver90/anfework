@@ -1,0 +1,18 @@
+
+body {
+    font-family: "Century Gothic", "Gill Sans MT", arial, verdana, sans-serif;
+}
+
+#sect {
+    font-family: "Century Gothic", "Gill Sans MT", arial, verdana, sans-serif;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    text-justify: auto;
+}
+
+#titolo {
+    color: #fc0;
+    text-shadow: 0px 0px 5px burlywood;
+    font-family: "Century Gothic", "Gill Sans MT", arial, verdana, sans-serif;
+}

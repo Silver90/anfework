@@ -1,0 +1,62 @@
+
+#h1 {
+    text-align: center;
+    margin-bottom: 5%;
+
+    float: left;
+}
+
+#phpsection {
+    font-family: "Century Gothic", "Gill Sans MT", arial, verdana, sans-serif;
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+    text-justify: auto;
+
+}
+
+#floatsection {
+    float: left;
+}
+
+#floatsection ul li {
+    list-style-type: none;
+    margin-bottom: 50px;
+
+}
+
+table td tr {
+    text-align: center;
+    border: 1px solid #000000;
+    margin: 0 auto;
+
+}
+
+td {
+    border: 1px solid #000000;
+    padding: 50px;
+
+}
+
+#file {
+    display: inline-block;
+    margin: 0 auto;
+
+}
+
+input {
+    position: relative;
+    left: 20px;
+
+}
+
+#data {
+
+    position: relative;
+    left: -20px;
+}
+
+#data_text {
+    position: relative;
+    left: -50px;
+}

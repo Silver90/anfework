@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    margin: 5px 20px 0 0;
+
+}
+
+.navbar {
+    border: medium none;
+    padding: 20px;
+}
+
+.contenuto {
+
+    font-family: "Century Gothic", "Gill Sans MT", arial, verdana, sans-serif;
+    line-height: 180%;
+
+}
+
+.container a img {
+    display: inline;
+}
+
+.container-fluid {
+    background-color: burlywood;
+    margin: 40px 0;
+    padding: 40px 0;
+}
+
+.immagini {
+    margin: 50px auto;
+
+}
+
+.borderfooter {
+    border-top: 1px solid #d58512;
+}
+
+footer {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
